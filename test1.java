@@ -1,8 +1,8 @@
 public class test1 {
   public static void main(String[] args) {
-    String name = "Alice";
-    int age = 25;
-    double score = 89.5;
+    String name = "sudharshan";
+    int age = 20;
+    double score = 99.5;
 
     System.out.printf("Name: %s%n", name);
     System.out.printf("Age: %d years%n", age);
